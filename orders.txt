@@ -9,3 +9,7 @@ Id Product_List Bill cust_id Order_Date Status
 8 11,12,13 109.97 208 2026-05-08 Shipped
 9 14 399.99 209 2026-05-09 Processing
 10 15 12.49 210 2026-05-10 Delivered 
+//added orders
+11 15 12.49 210 2026-05-12 Delivered 
+12 10 109.98 209 2026-05-25 Processing
+13 7 29.99 205 2026-04-29 Shipped
