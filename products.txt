@@ -14,6 +14,3 @@ Id Name Category Price Stock
 13 Backpack Accessories 49.99 70
 14 Novel Book 12.99 120
 15 Board_Game Toys 39.99 50
-16 Wireless_Speaker Electronics 59.99 65
-17 Tennis_Racket Sports 129.99 25
-18 Cookware_Set Home 79.99 30
