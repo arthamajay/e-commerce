@@ -1,0 +1,16 @@
+Id Name Category Price Stock
+1 Wireless_Mouse Electronics 19.99 150
+2 Bluetooth_Headphones Electronics 49.99 80
+3 Portable_Charger Electronics 24.99 120
+4 Smartwatch Electronics 199.99 35
+5 Running_Shoes Sports 69.99 60
+6 Yoga_Mat Sports 29.99 100
+7 Water_Bottle Sports 14.99 200
+8 Coffee_Maker Home 89.99 40
+9 Desk_Lamp Home 34.99 75
+10 Throw_Pillow Home 22.99 90
+11 Laptop_Sleeve Accessories 17.99 110
+12 Sunglasses Accessories 29.99 85
+13 Backpack Accessories 49.99 70
+14 Novel Book 12.99 120
+15 Board_Game Toys 39.99 50
